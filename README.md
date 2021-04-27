@@ -1,7 +1,7 @@
 # Go Bindings for Elektra
 
 This repository contains Go bindings for the low-level API
-for Elektra as found in `kdb.h`.
+for Elektra as found in `elektra/kdb.h`.
 
 Go-Elektra leverages [cgo](https://golang.org/cmd/cgo/) to call the C functions
 of the Elektra library.

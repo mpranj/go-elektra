@@ -1,6 +1,6 @@
 package kdb
 
-// #include <kdb.h>
+// #include <elektra/kdb.h>
 // #include <stdlib.h>
 //
 //
